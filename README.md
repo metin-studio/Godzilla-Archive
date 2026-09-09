@@ -21,7 +21,7 @@ Bu proje, Python ile masaüstü uygulama geliştirme, veri yönetimi ve kullanı
 
 Kurulum
 
-Projeyi bilgisayarınıza indirdikten sonra gerekli Python paketlerini yükleyin:
+Projeyi bilgisayarınıza indirdikten sonra gerekli Python paketini yükleyin:
 
 pip install Pillow
 
@@ -30,6 +30,10 @@ Ardından uygulamayı çalıştırın:
 python GArşiv.py
 
 Not: Projenin çalışması için data ve image klasörlerinin proje dizinindeki yapısının korunması gerekir.
+
+Görsel Kaynakları
+
+Kaiju görselleri Godzilla Card Game kaynaklıdır. Görseller bu kişisel, ticari olmayan eğitim ve portföy projesinde kullanılmak üzere kırpılarak düzenlenmiştir.
 
 Geliştirme
 
