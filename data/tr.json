@@ -1,0 +1,55 @@
+{
+    "language_name": "Türkçe",
+
+    "app_title": "Godzilla Arşiv",
+    "main_title": "GODZILLA ARŞİV",
+    "subtitle": "Japon Godzilla Serisinin Kaiju Arşivi",
+
+    "search_label": "KAIJU ARA",
+    "era_label": "DÖNEM",
+    "sort_label": "SIRALAMA",
+    "language_label": "DİL",
+
+    "archive_title": "KAIJU ARŞİVİ",
+
+    "all_eras": "Tüm Dönemler",
+
+    "sort_default": "Varsayılan",
+    "sort_name_az": "İsim: A-Z",
+    "sort_name_za": "İsim: Z-A",
+    "sort_year_old_new": "İlk çıkış yılı: Eskiden yeniye",
+    "sort_year_new_old": "İlk çıkış yılı: Yeniden eskiye",
+
+    "about": "Hakkında",
+    "appearances": "Görünümler / Formlar",
+    "films": "Göründüğü Filmler",
+
+    "first_appearance": "İlk çıkış yılı",
+    "type": "Tür",
+    "height": "Boy",
+    "first_film": "İlk göründüğü film",
+    "era": "Dönem",
+
+    "director": "Yönetmen",
+    "unknown": "Bilinmiyor",
+
+    "image_not_found": "Resim bulunamadı.",
+    "no_description": "Bu kaiju için açıklama bulunmuyor.",
+    "no_films": "Bu kaiju için film bilgisi bulunmuyor.",
+
+    "registered": "Kaiju kayıtlı",
+
+    "showa": "Showa Dönemi",
+    "heisei": "Heisei Dönemi",
+    "millennium": "Millennium Dönemi",
+    "reiwa": "Reiwa Dönemi",
+
+    "appearance_labels": {
+    "godzilla_showa": "Showa Dönemi",
+    "godzilla_heisei": "Heisei Dönemi",
+    "godzilla_gmk": "GMK Tasarımı",
+    "battra_larva": "Larva Formu",
+    "battra_imago": "Imago Formu"
+    }
+
+}

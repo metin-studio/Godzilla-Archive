@@ -1,0 +1,54 @@
+{
+    "language_name": "日本語",
+
+    "app_title": "ゴジラ・アーカイブ",
+    "main_title": "ゴジラ・アーカイブ",
+    "subtitle": "日本版ゴジラシリーズ 怪獣アーカイブ",
+
+    "search_label": "怪獣を検索",
+    "era_label": "時代",
+    "sort_label": "並び順",
+    "language_label": "言語",
+
+    "archive_title": "怪獣アーカイブ",
+
+    "all_eras": "すべての時代",
+
+    "sort_default": "デフォルト",
+    "sort_name_az": "名前：A-Z",
+    "sort_name_za": "名前：Z-A",
+    "sort_year_old_new": "初登場年：古い順",
+    "sort_year_new_old": "初登場年：新しい順",
+
+    "about": "概要",
+    "appearances": "登場形態 / フォーム",
+    "films": "登場作品",
+
+    "first_appearance": "初登場年",
+    "type": "種類",
+    "height": "身長",
+    "first_film": "初登場作品",
+    "era": "時代",
+
+    "director": "監督",
+    "unknown": "不明",
+
+    "image_not_found": "画像が見つかりません。",
+    "no_description": "この怪獣の説明はありません。",
+    "no_films": "この怪獣の作品情報はありません。",
+
+    "registered": "怪獣登録数",
+
+    "showa": "昭和",
+    "heisei": "平成",
+    "millennium": "ミレニアム",
+    "reiwa": "令和",    
+
+    "appearance_labels": {
+    "godzilla_showa": "昭和時代",
+    "godzilla_heisei": "平成時代",
+    "godzilla_gmk": "GMKデザイン",
+    "battra_larva": "幼虫形態",
+    "battra_imago": "成虫形態"
+    }
+}

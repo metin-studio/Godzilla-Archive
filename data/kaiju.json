@@ -1,0 +1,1044 @@
+{
+    "Godzilla": {
+        "year": 1954,
+        "kaiju_type": "Kaiju",
+        "height": "50 metre",
+        "first_film": "Godzilla",
+        "era": "Showa",
+        "description": "1954 yılında ortaya çıkan ve Japon kaiju sinemasının en ikonik karakteri olan dev canavar.",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1954,
+                        "label_key": "Showa Dönemi",
+                        "image": "godzilla_showa.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1984,
+                        "label_key": "Heisei Dönemi",
+                        "image": "godzilla_heisei.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 1999,
+                        "label_key": "Millennium Dönemi - 1999/2000",
+                        "image": "godzilla_millennium.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2001,
+                        "label_key": "GMK Tasarımı",
+                        "image": "godzilla_gmk.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2002,
+                        "label_key": "Kiryu Serisi Tasarımı",
+                        "image": "godzilla_kiryu.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2004,
+                        "label_key": "Final Wars Tasarımı",
+                        "image": "godzilla_final_wars.png"
+                    },
+                    {
+                        "era": "Reiwa",
+                        "year": 2016,
+                        "label_key": "İlk Form",
+                        "image": "shin_godzilla_first.png"
+                    },
+                    {
+                        "era": "Reiwa",
+                        "year": 2016,
+                        "label_key": "İkinci Form",
+                        "image": "shin_godzilla_second.png"
+                    },
+                    {
+                        "era": "Reiwa",
+                        "year": 2016,
+                        "label_key": "Üçüncü Form",
+                        "image": "shin_godzilla_third.png"
+                    },
+                    {
+                        "era": "Reiwa",
+                        "year": 2016,
+                        "label_key": "Dördüncü Form",
+                        "image": "shin_godzilla_fourth.png"
+                    },
+                    {
+                        "era": "Reiwa",
+                        "year": 2016,
+                        "label_key": "Beşinci Form",
+                        "image": "shin_godzilla_fifth.png"
+                    },
+                    {
+                        "era": "Reiwa",
+                        "year": 2023,
+                        "label_key": "Minus One Godzilla",
+                        "image": "godzilla_minus_one.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Godzilla",
+                    "year": 1954,
+                    "type": "Film",
+                    "director": "Ishiro Honda",
+                    "era": "Showa"
+                },
+                {
+                    "title": "Godzilla Raids Again",
+                    "year": 1955,
+                    "type": "Film"
+                },
+                {
+                    "title": "King Kong vs. Godzilla",
+                    "year": 1962,
+                    "type": "Film"
+                },
+                {
+                    "title": "Mothra vs. Godzilla",
+                    "year": 1964,
+                    "type": "Film"
+                },
+                {
+                    "title": "Ghidorah, the Three-Headed Monster",
+                    "year": 1964,
+                    "type": "Film"
+                },
+                {
+                    "title": "Invasion of Astro-Monster",
+                    "year": 1965,
+                    "type": "Film"
+                },
+                {
+                    "title": "Ebirah, Horror of the Deep",
+                    "year": 1966,
+                    "type": "Film"
+                },
+                {
+                    "title": "Son of Godzilla",
+                    "year": 1967,
+                    "type": "Film"
+                },
+                {
+                    "title": "Destroy All Monsters",
+                    "year": 1968,
+                    "type": "Film"
+                },
+                {
+                    "title": "All Monsters Attack",
+                    "year": 1969,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. Hedorah",
+                    "year": 1971,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. Gigan",
+                    "year": 1972,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. Megalon",
+                    "year": 1973,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. Mechagodzilla",
+                    "year": 1974,
+                    "type": "Film"
+                },
+                {
+                    "title": "Terror of Mechagodzilla",
+                    "year": 1975,
+                    "type": "Film"
+                },
+                {
+                    "title": "The Return of Godzilla",
+                    "year": 1984,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. Biollante",
+                    "year": 1989,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. King Ghidorah",
+                    "year": 1991,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. Mothra",
+                    "year": 1992,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. Mechagodzilla II",
+                    "year": 1993,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. SpaceGodzilla",
+                    "year": 1994,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. Destoroyah",
+                    "year": 1995,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla 2000: Millennium",
+                    "year": 1999,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla vs. Megaguirus",
+                    "year": 2000,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+                    "year": 2001,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla Against Mechagodzilla",
+                    "year": 2002,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla: Tokyo SOS",
+                    "year": 2003,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla: Final Wars",
+                    "year": 2004,
+                    "type": "Film"
+                },
+                {
+                    "title": "Shin Godzilla",
+                    "year": 2016,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla Minus One",
+                    "year": 2023,
+                    "type": "Film"
+                }
+            ]
+    },
+
+    "Rodan": {
+        "year": 1956,
+        "kaiju_type": "Dev pterozor",
+        "height": "50 metre",
+        "first_film": "Rodan",
+        "era": "Showa",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1956,
+                        "label_key": "Showa Dönemi",
+                        "image": "rodan_showa.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1993,
+                        "label_key": "Heisei Dönemi",
+                        "image": "rodan_heisei.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2004,
+                        "label_key": "Final Wars Tasarımı",
+                        "image": "rodan_final_wars.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Rodan",
+                    "year": 1956,
+                    "type": "Film",
+                    "director": "Ishirō Honda"
+                },
+                {
+                    "title": "Ghidorah, the Three-Headed Monster",
+                    "year": 1964,
+                    "type": "Film",
+                    "director": "Ishirō Honda"
+                },
+                {
+                    "title": "Invasion of Astro-Monster",
+                    "year": 1965,
+                    "type": "Film",
+                    "director": "Ishirō Honda"
+                },
+                {
+                    "title": "Destroy All Monsters",
+                    "year": 1968,
+                    "type": "Film",
+                    "director": "Ishirō Honda"
+                },
+                {
+                    "title": "Godzilla vs. Gigan",
+                    "year": 1972,
+                    "type": "Film",
+                    "director": "Jun Fukuda"
+                },
+                {
+                    "title": "Godzilla vs. Megalon",
+                    "year": 1973,
+                    "type": "Film",
+                    "director": "Jun Fukuda"
+                },
+                {
+                    "title": "Terror of Mechagodzilla",
+                    "year": 1975,
+                    "type": "Film",
+                    "director": "Ishiro Honda"
+                },
+                {
+                    "title": "Godzilla vs. Mechagodzilla II",
+                    "year": 1993,
+                    "type": "Film",
+                    "director": "Takao Okawara"
+                },
+                {
+                    "title": "Godzilla: Final Wars",
+                    "year": 2004,
+                    "type": "Film",
+                    "director": "Ryuhei Kitamura"
+                }
+            ]
+    },
+
+    "Mothra": {
+        "year": 1961,
+        "kaiju_type": "Dev güve",
+        "height": "50 metre",
+        "first_film": "Mothra",
+        "era": "Showa",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1961,
+                        "label_key": "Showa Dönemi - Larva Formu",
+                        "image": "mothra_showa_larva.png"
+                    },
+                    {
+                        "era": "Showa",
+                        "year": 1961,
+                        "label_key": "Showa Dönemi - Imago Formu",
+                        "image": "mothra_showa_imago.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1992,
+                        "label_key": "Heisei Dönemi - Larva Formu",
+                        "image": "mothra_heisei_larva.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1992,
+                        "label_key": "Heisei Dönemi - Imago Formu",
+                        "image": "mothra_heisei_imago.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1996,
+                        "label_key": "Rebirth of Mothra",
+                        "image": "mothra_rebirth.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1997,
+                        "label_key": "Rainbow Mothra",
+                        "image": "mothra_rainbow.png"
+                    },  
+                    {
+                        "era": "Heisei",
+                        "year": 1998,
+                        "label_key": "Mothra Eternal",
+                        "image": "mothra_eternal.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2001,
+                        "label_key": "GMK Tasarımı",
+                        "image": "mothra_gmk.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2003,
+                        "label_key": "Tokyo SOS Tasarımı",
+                        "image": "mothra_tokyo_sos.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2004,
+                        "label_key": "Final Wars Tasarımı",
+                        "image": "mothra_final_wars.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Mothra",
+                    "year": 1961,
+                    "type": "Film",
+                    "director": "Ishirō Honda"
+                },
+                {
+                    "title": "Mothra vs. Godzilla",
+                    "year": 1964,
+                    "type": "Film",
+                    "director": "Ishirō Honda"
+                },
+                {
+                    "title": "Ghidorah, the Three-Headed Monster",
+                    "year": 1964,
+                    "type": "Film",
+                    "director": "Ishirō Honda"
+                },
+                {
+                    "title": "Ebirah, Horror of the Deep",
+                    "year": 1966,
+                    "type": "Film",
+                    "director": "Jun Fukuda"
+                },
+                {
+                    "title": "Destroy All Monsters",
+                    "year": 1968,
+                    "type": "Film",
+                    "director": "Ishirō Honda"
+                },
+                {
+                    "title": "Godzilla vs. Mothra",
+                    "year": 1992,
+                    "type": "Film",
+                    "director": "Takao Okawara"
+                },
+                {
+                    "title": "Godzilla vs. SpaceGodzilla",
+                    "year": 1994,
+                    "type": "Film",
+                    "director": "Kensho Yamashita"
+                },
+                {
+                    "title": "Rebirth of Mothra",
+                    "year": 1996,
+                    "type": "Film",
+                    "director": "Okihiro Yoneda"
+                },
+                {
+                    "title": "Rebirth of Mothra II",
+                    "year": 1997,
+                    "type": "Film",
+                    "director": "Kunio Miyoshi"
+                },
+                {
+                    "title": "Rebirth of Mothra III",
+                    "year": 1998,
+                    "type": "Film",
+                    "director": "Okihiro Yoneda"
+                },
+                {
+                    "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+                    "year": 2001,
+                    "type": "Film",
+                    "director": "Shūsuke Kaneko"
+                },
+                {
+                    "title": "Godzilla: Tokyo SOS",
+                    "year": 2003,
+                    "type": "Film",
+                    "director": "Masaaki Tezuka"
+                },
+                {
+                    "title": "Godzilla: Final Wars",
+                    "year": 2004,
+                    "type": "Film",
+                "director": "Ryuhei Kitamura"
+                }
+            ]
+    },
+
+    "Hedorah": {
+        "year": 1971,
+        "kaiju_type": "Kirlilik canavarı",
+        "height": "60 metre",
+        "first_film": "Godzilla vs. Hedorah",
+        "era": "Showa",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1971,
+                        "label_key": "Showa Dönemi",
+                        "image": "hedorah_showa.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2004,
+                        "label_key": "Final Wars Tasarımı",
+                        "image": "hedorah_final_wars.png"
+                    },
+                    {
+                        "era": "Reiwa",
+                        "year": 2017,
+                        "label_key": "Anime Tasarımı",
+                        "image": "hedorah_anime.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Godzilla vs. Hedorah",
+                    "year": 1971,
+                    "type": "Film",
+                    "director": "Yoshimitsu Banno"
+                },
+                {
+                    "title": "Godzilla Final Wars",
+                    "year": 2004,
+                    "type": "Film",
+                    "director": "Ryuhei Kitamura"
+                },
+                {
+                    "title": "Godzilla: Planet of the Monsters",
+                    "year": 2017,
+                    "type": "Film",
+                    "director": "Kōbun Shizuno & Hiroyuki Seshita"
+                }
+            ]
+    },
+
+    "Biollante": {
+        "year": 1989,
+        "kaiju_type": "Kaiju",
+        "height": "85 metre",
+        "first_film": "Godzilla vs. Biollante",
+        "era": "Heisei",
+        "appearances": [
+                    {
+                        "era": "Heisei",
+                        "year": 1989,
+                        "label_key": "Heisei Tasarımı",
+                        "image": "biollante_heisei.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Godzilla vs. Biollante",
+                    "year": 1989,
+                    "type": "Film"
+                }
+            ]
+    },
+
+    "Ebirah": {
+        "year": 1966,
+        "kaiju_type": "Dev kabuklu deniz canlısı",
+        "height": "50 metre",
+        "first_film": "Ebirah, Horror of the Deep",
+        "era": "Showa",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1966,
+                        "label_key": "Showa Tasarımı",
+                        "image": "ebirah_showa.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2004,
+                        "label_key": "Final Wars Tasarımı",
+                        "image": "ebirah_final_wars.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Ebirah, Horror of the Deep",
+                    "year": 1966,
+                    "type": "Film"
+                },
+                {
+                    "title": "All Monsters Attack",
+                    "year": 1969,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla Final Wars",
+                    "year": 2004,
+                    "type": "Film"
+                }
+            ]
+    },
+
+    "Megalon": {
+        "year": 1973,
+        "kaiju_type": "Yeraltı böceksi kaiju",
+        "height": "55 metre",
+        "first_film": "Godzilla vs. Megalon",
+        "era": "Showa",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1973,
+                        "label_key": "Showa Tasarımı",
+                        "image": "megalon_showa.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Godzilla vs. Megalon",
+                    "year": 1973,
+                    "type": "Film"
+                }
+            ]
+    },
+
+    "Orga": {
+        "year": 1999,
+        "kaiju_type": "Uzaylı mutant",
+        "height": "60 metre",
+        "first_film": "Godzilla 2000: Millennium",
+        "era": "Millennium",
+        "appearances": [
+                    {
+                        "era": "Millennium",
+                        "year": 1999,
+                        "label_key": "Millennium Tasarımı",
+                        "image": "orga_millennium.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Godzilla 2000: Millennium",
+                    "year": 1999,
+                    "type": "Film"
+                }
+            ]
+    },
+
+    "Kumonga": {
+        "year": 1967,
+        "kaiju_type": "Dev örümcek",
+        "height": "45 metre",
+        "first_film": "Son of Godzilla",
+        "era": "Showa",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1967,
+                        "label_key": "Showa Tasarımı",
+                        "image": "kumonga_showa.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2004,
+                        "label_key": "Final Wars Tasarımı",
+                        "image": "kumonga_final_wars.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Son of Godzilla",
+                    "year": 1967,
+                    "type": "Film"
+                },
+                {
+                    "title": "Destroy All Monsters",
+                    "year": 1968,
+                    "type": "Film"
+                },
+                {
+                    "title": "Godzilla: Final Wars",
+                    "year": 2004,
+                    "type": "Film"
+                }
+            ]
+    },
+
+    "Jet Jaguar": {
+        "year": 1973,
+        "kaiju_type": "Robot",
+        "height": "45 metre",
+        "first_film": "Godzilla vs. Megalon",
+        "era": "Showa",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1973,
+                        "label_key": "Showa Tasarımı",
+                        "image": "jet_jaguar_showa.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Godzilla vs. Megalon",
+                    "year": 1973,
+                    "type": "Film"
+                }
+            ]
+    },
+
+    "King Ghidorah": {
+        "year": 1964,
+        "kaiju_type": "Uzaylı üç başlı ejderha kaiju",
+        "height": "100 metre",
+        "first_film": "Ghidorah, the Three-Headed Monster",
+        "era": "Showa",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1964,
+                        "label_key": "Showa Dönemi",
+                        "image": "king_ghidorah_showa.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1991,
+                        "label_key": "Heisei Dönemi",
+                        "image": "king_ghidorah_heisei.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2001,
+                        "label_key": "GMK Tasarımı",
+                        "image": "king_ghidorah_gmk.png"
+                    },
+                    {   
+                        "era": "Reiwa",
+                        "year": 2018,
+                        "label_key": "Anime Tasarımı",
+                        "image": "king_ghidorah_anime.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Ghidorah, the Three-Headed Monster",
+                    "year": 1964,
+                    "type": "Film",
+                    "director": "Ishirō Honda",
+                    "era": "Showa"
+                },
+                {
+                    "title": "Invasion of Astro-Monster",
+                    "year": 1965,
+                    "type": "Film",
+                    "director": "Ishirō Honda",
+                    "era": "Showa"
+                },
+                {
+                    "title": "Destroy All Monsters",
+                    "year": 1968,
+                    "type": "Film",
+                    "director": "Ishirō Honda",
+                    "era": "Showa"
+                },
+                {
+                    "title": "Godzilla vs. Gigan",
+                    "year": 1972,
+                    "type": "Film",
+                    "director": "Jun Fukuda",
+                    "era": "Showa"
+                },
+                {
+                    "title": "Godzilla vs. King Ghidorah",
+                    "year": 1991,
+                    "type": "Film",
+                    "director": "Kazuki Ōmori",
+                    "era": "Heisei"
+                },
+                {
+                    "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+                    "year": 2001,
+                    "type": "Film",
+                    "director": "Shūsuke Kaneko",
+                    "era": "Millennium"
+                },
+                {
+                    "title": "Godzilla: The Planet Eater",
+                    "year": 2018,
+                    "type": "Film",
+                    "director": "Kōbun Shizuno & Hiroyuki Seshita",
+                    "era": "Reiwa"
+                }
+            ]
+    },
+
+    "Mechagodzilla (1974)": {
+        "year": 1974,
+        "kaiju_type": "Robot",
+        "height": "50 metre",
+        "first_film": "Godzilla vs. Mechagodzilla",
+        "era": "Showa",
+        "description": "Black Hole Aliens tarafından Godzilla'yı yok etmek amacıyla geliştirilen ve insan kılığına girebilen dev robot. Serinin en ikonik düşmanlarından biri haline gelmiştir.",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1974,
+                        "label_key": "Showa Tasarımı",
+                        "image": "mechagodzilla_showa.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Godzilla vs. Mechagodzilla",
+                    "year": 1974,
+                    "type": "Film",
+                    "director": "Jun Fukuda",
+                    "era": "Showa"
+                },
+                {
+                    "title": "Terror of Mechagodzilla",
+                    "year": 1975,
+                    "type": "Film",
+                    "director": "Ishiro Honda",
+                    "era": "Showa"
+                }
+            ]
+    },
+
+    "Kiryu": {
+        "year": 2002,
+        "kaiju_type": "Sibernetik Mechagodzilla",
+        "height": "60 metre",
+        "first_film": "Godzilla Against Mechagodzilla",
+        "era": "Millennium",
+        "description": "Godzilla'nın kemiklerinden geliştirilen ve Japonya'nın savunması için yeniden tasarlanan sibernetik Mechagodzilla. Kiryu olarak da bilinen bu versiyon, önceki Mechagodzilla'lardan farklı olarak kendi bilincine ve Godzilla'nın anılarından kaynaklanan tepkilere sahiptir.",
+        "appearances": [
+                    {
+                        "era": "Millennium",
+                        "year": 2002,
+                        "label_key": "Kiryu - 2002",
+                        "image": "kiryu_2002.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2003,
+                        "label_key": "Kiryu Kai - 2003",
+                        "image": "kiryu_2003.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Godzilla Against Mechagodzilla",
+                    "year": 2002,
+                    "type": "Film",
+                    "director": "Masaaki Tezuka",
+                    "era": "Millennium"
+                },
+                {
+                    "title": "Godzilla: Tokyo SOS",
+                    "year": 2003,
+                    "type": "Film",
+                    "director": "Masaaki Tezuka",
+                    "era": "Millennium"
+                }
+            ]
+    },
+
+    "Gigan": {
+        "year": 1972,
+        "kaiju_type": "Uzaylı sibernetik kaiju",
+        "height": "65 metre",
+        "first_film": "Godzilla vs. Gigan",
+        "era": "Showa",
+        "description": "Uzaylılar tarafından geliştirilmiş, kavisli bıçakları ve gövdesindeki sibernetik parçalarıyla tanınan cyborg kaiju. Gigan özellikle göğsündeki döner testere ve kanca şeklindeki elleriyle Godzilla'nın en tehlikeli rakiplerinden biridir.",
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1972,
+                        "label_key": "Showa Dönemi",
+                        "image": "gigan_showa.png"
+                    },
+                    {
+                        "era": "Millennium",
+                        "year": 2004,
+                        "label_key": "Millennium Dönemi",
+                        "image": "gigan_millennium.png"
+                    }
+                ],
+        "films": [
+                {
+                    "title": "Godzilla vs. Gigan",
+                    "year": 1972,
+                    "type": "Film",
+                    "director": "Jun Fukuda",
+                    "era": "Showa"
+                },
+                {
+                    "title": "Godzilla vs. Megalon",
+                    "year": 1973,
+                    "type": "Film",
+                    "director": "Jun Fukuda",
+                    "era": "Showa"
+                },
+                {
+                    "title": "Godzilla: Final Wars",
+                    "year": 2004,
+                    "type": "Film",
+                    "director": "Ryuhei Kitamura",
+                    "era": "Millennium"
+                }
+            ]
+    },
+
+    "Destoroyah": {
+        "year": 1995,
+        "kaiju_type": "Mutasyona uğramış kabuklu deniz canlısı",
+        "height": "120 metre",
+        "first_film": "Godzilla vs. Destoroyah",
+        "era": "Heisei",
+        "description": "1954 yılında kullanılan Oxygen Destroyer'ın etkisiyle mutasyona uğrayan mikroskobik deniz canlılarından oluşan ölümcül bir yaşam formudur. Birden fazla evrimsel aşamadan geçerek devasa ve son derece güçlü Perfect Form'a ulaşır. Godzilla'nın Heisei dönemindeki son ve en tehlikeli düşmanlarından biridir.",
+        "appearances": [
+                    {
+                        "era": "Heisei",
+                        "year": 1995,
+                        "label_key": "Mikro Form",
+                        "image": "destoroyah_micro.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1995,
+                        "label_key": "Genç Form",
+                        "image": "destoroyah_juvenile.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1995,
+                        "label_key": "Birleşik Form",
+                        "image": "destoroyah_aggregate.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1995,
+                        "label_key": "Uçan Form",
+                        "image": "destoroyah_flying.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1995,
+                        "label_key": "Mükemmel Form",
+                        "image": "destoroyah_perfect.png"
+                    }
+                ],
+            "films": [
+                    {
+                        "title": "Godzilla vs. Destoroyah",
+                        "year": 1995,
+                        "type": "Film",
+                        "director": "Takao Okawara",
+                        "era": "Heisei"
+                    }
+                ]
+    },
+
+    "SpaceGodzilla": {
+        "year": 1994,
+        "kaiju_type": "Uzay kaynaklı Godzilla benzeri kaiju",
+        "height": "120 metre",
+        "first_film": "Godzilla vs. SpaceGodzilla",
+        "era": "Heisei",
+        "description": "Godzilla'nın genetik materyalinin uzayda kristal kaynaklı enerjilerle birleşmesi sonucu ortaya çıktığı düşünülen güçlü bir kaiju. Kristallerle kaplı sırtı ve kozmik güçleriyle Godzilla'nın en sıra dışı rakiplerinden biridir.",
+        "appearances": [
+                    {
+                        "era": "Heisei",
+                        "year": 1994,
+                        "label_key": "Heisei Tasarımı",
+                        "image": "spacegodzilla_heisei.png"
+                    }
+                ],
+        "films": [
+                    {   
+                        "title": "Godzilla vs. SpaceGodzilla",
+                        "year": 1994,
+                        "type": "Film",
+                        "director": "Kensho Yamashita",
+                        "era": "Heisei"
+                    }
+                ]  
+    },
+
+    "Battra": {
+        "year": 1992,
+        "kaiju_type": "Dev güve",
+        "height": "60 metre",
+        "first_film": "Godzilla and Mothra: The Battle for Earth",
+        "era": "Heisei",
+        "description": "Mothra'nın karşıtı olarak yaratılmış, Dünya'yı koruma amacı taşıyan ancak yöntemleri Mothra'dan çok daha saldırgan olan kadim bir kaiju. Larva ve yetişkin biçimleri bulunur.",
+    
+        "appearances": [
+                    {
+                        "era": "Heisei",
+                        "year": 1992,
+                        "label_key": "Larva Formu",
+                        "image": "battra_larva.png"
+                    },
+                    {
+                        "era": "Heisei",
+                        "year": 1992,
+                        "label_key": "Imago Formu",
+                        "image": "battra_imago.png"
+                    }
+            ],
+
+        "films": [
+                {
+                    "title": "Godzilla vs. Mothra",
+                    "year": 1992,
+                    "type": "Film",
+                    "director": "Takao Okawara",
+                    "era": "Heisei"
+                }
+            ]
+    },
+
+    "Titanosaurus": {
+        "year": 1975,
+        "kaiju_type": "Deniz sürüngeni",
+        "height": "60 metre",
+        "first_film": "Terror of Mechagodzilla",
+        "era": "Showa",
+        "description": "Pasifik Okyanusu'nda yaşayan dev bir deniz sürüngenidir. Bilim insanı Shin'ichi Maki tarafından araştırılmış ve uzaylıların kontrolü altına alınarak Godzilla'ya karşı kullanılmıştır.",
+    
+        "appearances": [
+                    {
+                        "era": "Showa",
+                        "year": 1975,
+                        "label_key": "Showa Tasarımı",
+                        "image": "titanosaurus_showa.png"
+                    }
+                ],
+
+        "films": [
+                {
+                    "title": "Terror of Mechagodzilla",
+                    "year": 1975,
+                    "type": "Film",
+                    "director": "Ishirō Honda",
+                    "era": "Showa"
+                }
+                ]
+    }
+}

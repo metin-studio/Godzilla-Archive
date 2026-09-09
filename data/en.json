@@ -1,0 +1,55 @@
+{
+    "language_name": "English",
+
+    "app_title": "Godzilla Archive",
+    "main_title": "GODZILLA ARCHIVE",
+    "subtitle": "Archive of the Kaiju from the Japanese Godzilla Series",
+
+    "search_label": "SEARCH KAIJU",
+    "era_label": "ERA",
+    "sort_label": "SORTING",
+    "language_label": "LANGUAGE",
+
+    "archive_title": "KAIJU ARCHIVE",
+
+    "all_eras": "All Eras",
+
+    "sort_default": "Default",
+    "sort_name_az": "Name: A-Z",
+    "sort_name_za": "Name: Z-A",
+    "sort_year_old_new": "First appearance: Oldest to newest",
+    "sort_year_new_old": "First appearance: Newest to oldest",
+
+    "about": "About",
+    "appearances": "Appearances / Forms",
+    "films": "Films Appeared In",
+
+    "first_appearance": "First appearance",
+    "type": "Type",
+    "height": "Height",
+    "first_film": "First film appearance",
+    "era": "Era",
+
+    "director": "Director",
+    "unknown": "Unknown",
+
+    "image_not_found": "Image not found.",
+    "no_description": "No description available for this kaiju.",
+    "no_films": "No film information available for this kaiju.",
+
+    "registered": "Kaiju registered",
+
+    "showa": "Showa Era",
+    "heisei": "Heisei Era",
+    "millennium": "Millennium Era",
+    "reiwa": "Reiwa Era",
+
+    "appearance_labels": {
+    "godzilla_showa": "Showa Era",
+    "godzilla_heisei": "Heisei Era",
+    "godzilla_gmk": "GMK Design",
+    "battra_larva": "Larval Form",
+    "battra_imago": "Imago Form"
+    }
+
+}
